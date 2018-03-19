@@ -6,7 +6,16 @@ public class Friend {
     private String hp;
     private String school;
 
-    public String getName() {
+    public Friend(String name, String hp, String school) {
+		
+		this.name = name;
+		this.hp = hp;
+		this.school = school;
+	}
+    
+    public Friend() {}
+
+	public String getName() {
         return name;
     }
 
