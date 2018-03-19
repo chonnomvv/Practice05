@@ -21,7 +21,7 @@ public class ShapeApp {
             
             if( sList.get(i) instanceof Resizeable ) {
                 ((Resizeable)sList.get(i)).resize( 0.5 );
-                
+                 
                 System.out.println( "new area: " + sList.get(i).getArea() );
                 System.out.println( "new perimeter: " + sList.get(i).getPerimeter() );
             }
