@@ -13,7 +13,7 @@ public class Mul {
 		this.y = y;
 	}
 	public int getX() {
-		return x;
+		return x; 
 	}
 	public void setX(int x) {
 		this.x = x;

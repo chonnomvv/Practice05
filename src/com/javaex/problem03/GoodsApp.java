@@ -16,7 +16,7 @@ public class GoodsApp {
 		System.out.println("상품 3개를 입력해주세요");
 		int count = 0;
 		for (int i = 0; i < 3; i++) {
-			String str = sc.nextLine();
+			String str = sc.nextLine(); 
 			String good[] = str.split(" ");
 			Goods goods = new Goods(good[0], Integer.parseInt(good[1]), Integer.parseInt(good[2]));
 			count += Integer.parseInt(good[2]);

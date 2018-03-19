@@ -9,7 +9,7 @@ public class FriendApp {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		List<Friend> list = new ArrayList<Friend>();
+		List<Friend> list = new ArrayList<Friend>(); 
 
 		for (int i = 0; i < 3; i++) {
 

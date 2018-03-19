@@ -11,7 +11,7 @@ public class Div {
 	
 		this.x = x;
 		this.y = y;
-	}
+	} 
 	
 	public int getX() {
 		return x;

@@ -14,7 +14,7 @@ public abstract class Shape {
 	}
 
 	public int getCountSides() {
-		return countSides;
+		return countSides; 
 	}
 	
 	public abstract double getArea();

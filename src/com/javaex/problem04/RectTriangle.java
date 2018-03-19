@@ -8,7 +8,7 @@ public class RectTriangle extends Shape{
 
 	@Override
 	public double getArea() {
-		return 0.5 * width * height;
+		return 0.5 * width * height; 
 	}
 
 	@Override

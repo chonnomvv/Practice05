@@ -6,7 +6,7 @@ public class Rectangle extends Shape implements Resizeable {
 	private double height;
 
 	@Override
-	public double getArea() {
+	public double getArea() { 
 		return width * height;
 	}
 

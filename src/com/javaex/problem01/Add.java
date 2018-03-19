@@ -4,7 +4,7 @@ public class Add {
     
 	private int x;
 	private int y;
-	
+	 
 	
 	public Add() {}
 	public Add(int x, int y) {

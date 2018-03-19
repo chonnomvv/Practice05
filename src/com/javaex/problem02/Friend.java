@@ -9,7 +9,7 @@ public class Friend {
     public Friend(String name, String hp, String school) {
 		
 		this.name = name;
-		this.hp = hp;
+		this.hp = hp; 
 		this.school = school;
 	}
     
