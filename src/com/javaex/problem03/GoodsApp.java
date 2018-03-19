@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.javaex.problem02.Friend;
-
 public class GoodsApp {
 
 	public static void main(String[] args) {
