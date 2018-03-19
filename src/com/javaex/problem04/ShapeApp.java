@@ -8,7 +8,7 @@ public class ShapeApp {
     public static void main(String[] args) {
         List<Shape> sList = new ArrayList<Shape>(); 
         
-        Shape r= new Rectangle( 5, 6 );
+        Shape r= new Rectangle(5,6);
         Shape t= new RectTriangle( 6, 2 );
         sList.add(r);
         sList.add(t);
